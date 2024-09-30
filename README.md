@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*PlyeRxCFLCbP8cL7uuVt5g.gif)](https://supriya626.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*PlyeRxCFLCbP8cL7uuVt5g.gif)](https://supriyarani-dhal.io)
 # 💫 About Me:
 <img align="right" alt="Coding" width="200"  src="https://cdn.dribbble.com/users/1857592/screenshots/3848396/character-typing.gif">
 🔭 I’m currently working on upskilling my skills<br>👯 I’m looking to collaborate on creating new ideas<br>🤝 I’m looking for help with Realtime problems<br>🌱 I’m currently learning system design<br>💬 Ask me about  anything you want<br>⚡ Fun fact is , I never get tired of anything doing continuously
